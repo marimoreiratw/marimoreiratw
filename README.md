@@ -1,4 +1,4 @@
-## About Me
+## Sobre mim
 
 Muito prazer, sou a Mari 😄
 
@@ -18,7 +18,7 @@ Desde que me tornei Tech Writer, lá em fevereiro de 2020:
 Fique à vontade para entrar em contato comigo por aqui 💙
 
 
-## About Me
+## About me
 
 Nice to meet you, I'm Mari 😄
 
