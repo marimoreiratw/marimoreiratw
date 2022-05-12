@@ -2,7 +2,7 @@
 
 Muito prazer, sou a Mari 😄
 
-Sou Technical Writer (ou redatora técnica) há quase 2 anos, sendo 1 deles como Líder do time de Tech Writing da Zup Innovation.
+Sou Technical Writer (ou redatora técnica) há mais de 2 anos. Cheguei a liderar um time de 5 Tech Writers e, atualmente, assumi o desafio de ser a primeira Technical Writer do iFood. 
 
 O meu papel como TW é ajudar os times de desenvolvimento a produzirem documentações técnicas, tutoriais, release notes, artigos e demais conteúdos que auxiliem as pessoas a usarem nossos produtos.
 
@@ -25,7 +25,7 @@ Fique à vontade para entrar em contato comigo por aqui 💙
 
 Nice to meet you, I'm Mari 😄
 
-I'm a Technical Writer for almost 2 years, one of them as Tech Writer Lead at Zup Innovation.
+I'm a Technical Writer for almost 2 years. I had the opportunity to become a Lead of a team with 5 TWs and, recently, I became the first Technical Writer of iFood, the biggest latam foodtech. 
 
 My core role as a TW is to help our development teams to write technical software documentation, tutorials, release notes, articles, and other tech content to help people achieve their goals using our products.
 
