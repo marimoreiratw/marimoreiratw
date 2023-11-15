@@ -16,7 +16,7 @@ Desde que me tornei Tech Writer, lá em fevereiro de 2020:
 
 • Palestrei sobre Tech Writing em algumas edições online do TDC.
 
-• Me tornei professora de Tech Writing e, em parceria com a ESPM e os professores Charlley e Magerson, ajudei a formar mais de 50 pessoas para o mercado.
+• Lancei 2 cursos online em português focados em ajudar outras pessoas a tornar TW e a dominar documentação técnica
 
 Fique à vontade para entrar em contato comigo por aqui 💙
 
