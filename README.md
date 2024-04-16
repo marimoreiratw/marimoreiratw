@@ -2,7 +2,7 @@
 
 Muito prazer, sou a Mari 😄
 
-Sou Technical Writer (ou redatora técnica) há mais de 2 anos. Cheguei a liderar um time de 5 Tech Writers e, atualmente, assumi o desafio de ser a primeira Technical Writer do iFood. 
+Sou Technical Writer (ou redatora técnica) há mais de 4 anos. Atualmente, sou líder de Documentação e Comunicação no Mercado Pago.  
 
 O meu papel como TW é ajudar os times de desenvolvimento a produzirem documentações técnicas, tutoriais, release notes, artigos e demais conteúdos que auxiliem as pessoas a usarem nossos produtos.
 
